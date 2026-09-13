@@ -1,0 +1,13 @@
+Origin: purtem repo
+Label: purtem repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Date: Sat, 12 Sep 2026 13:03:16 UTC
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: my nice lil repo
+SHA256:
+ 95a06d06eb804ae469cd02930d0324546d0a91a69b7035a366fe639e091a59ae 4144 Packages
+ 631f5af8250410ced53fdd0524bfa4dbebea5a267ee573b0974dac73c86bd487 1523 Packages.gz
+ 1b89e4e71431d1be33785e4d726c4d984f7ddaa0235b58dbae804ebc2a17fcca 1518 Packages.bz2
